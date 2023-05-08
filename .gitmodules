@@ -1,0 +1,3 @@
+[submodule "subprojects/midi_module"]
+	path = subprojects/midi_module
+	url = git@github.com:fpgaudio/midi_module.git
